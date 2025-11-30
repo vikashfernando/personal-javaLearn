@@ -19,10 +19,11 @@ public class main3{
             //4 convert to lowercase
 
 
-        System.out.println(fullName.length()); //1
-        System.out.println(fullName.indexOf("i")); //2
-        System.out.println(fullName.toUpperCase()); //3
-        System.out.println(fullName.toLowerCase()); //4
+        System.out.println(fullName.length());          //1
+        System.out.println(fullName.indexOf("i"));      //2
+        System.out.println(fullName.toUpperCase());         //3
+        System.out.println(fullName.toLowerCase());     //4
+
 
     }
 }
