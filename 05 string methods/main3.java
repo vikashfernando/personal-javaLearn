@@ -12,7 +12,7 @@ public class main3{
         System.out.println("*****************************");
 
 
-        //String methods
+        //String methodss
             //1 length of a string
             //2 index of a letter
             //3 convert to uppercase
