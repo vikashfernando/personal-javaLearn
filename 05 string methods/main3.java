@@ -12,17 +12,18 @@ public class main3{
         System.out.println("*****************************");
 
 
-        //String methodss
+        //String methods
             //1 length of a string
             //2 index of a letter
             //3 convert to uppercase
             //4 convert to lowercase
 
 
-        System.out.println(fullName.length()); //1
-        System.out.println(fullName.indexOf("i")); //2
-        System.out.println(fullName.toUpperCase()); //3
-        System.out.println(fullName.toLowerCase()); //4
+        System.out.println(fullName.length());          //1
+        System.out.println(fullName.indexOf("i"));      //2
+        System.out.println(fullName.toUpperCase());         //3
+        System.out.println(fullName.toLowerCase());     //4
+
 
     }
 }
