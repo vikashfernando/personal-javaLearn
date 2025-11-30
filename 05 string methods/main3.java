@@ -21,7 +21,7 @@ public class main3{
 
         System.out.println(fullName.length());          //1
         System.out.println(fullName.indexOf("i"));      //2
-        System.out.println(fullName.toUpperCase());         //3
+        System.out.println(fullName.toUpperCase());     //3
         System.out.println(fullName.toLowerCase());     //4
 
 
