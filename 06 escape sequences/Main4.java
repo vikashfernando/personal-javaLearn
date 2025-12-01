@@ -5,7 +5,7 @@ public class Main4{
         // 2    /t     (tab)
         // 3    /n     (new line)
         // 4    /      (escape)
-        
+
         System.out.println("hello there, how are yo\b\bu ");
 
         System.out.println("suger:\t500g");
