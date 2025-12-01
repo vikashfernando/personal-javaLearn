@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/07 math" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/08 conditions-if-else" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/09 conditions switch case" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10 loops while" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
