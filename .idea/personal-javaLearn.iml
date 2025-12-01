@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/05 string methods" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/06 escape sequences" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/07 math" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08 conditions-if-else" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

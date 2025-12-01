@@ -20,7 +20,7 @@ public class Main7{
         //how to use random module
             // 2.1 how create a random number()
                 // 2.2 convert a random generated number to int between 0 & 10
-        
+
 
         // 2.1
         double d;
