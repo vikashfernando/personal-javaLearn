@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/03 data types" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/04 operators" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/05 string methods" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06 escape sequences" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
