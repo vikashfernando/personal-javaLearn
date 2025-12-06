@@ -12,6 +12,10 @@
       <sourceFolder url="file://$MODULE_DIR$/08 conditions-if-else" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/09 conditions switch case" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/10 loops while" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11 loops do-while" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12 loops for" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13 array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14 loops-for-each" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
