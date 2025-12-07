@@ -6,7 +6,7 @@ public class Main12{
             System.out.println(i);
         }
 
-        
+
         /*
         ? why while loop and for loop, and why we have two...
             for
