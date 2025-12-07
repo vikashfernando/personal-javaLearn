@@ -8,6 +8,16 @@ public class Main12{
 
 
         /*
+        how it processes?
+            1. check the condition
+            2. if ok - run for the 1st time
+            3. incr or decre
+         */
+
+
+
+        
+        /*
         ? why while loop and for loop, and why we have two...
             for
                 Use it when you know how many times you want to run the loop
