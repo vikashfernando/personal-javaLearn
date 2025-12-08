@@ -29,6 +29,6 @@ public class Main14{
             System.out.println(lst1[i]);
         }
 
-        
+
     }
 }
