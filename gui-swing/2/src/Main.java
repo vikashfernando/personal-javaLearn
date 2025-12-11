@@ -5,6 +5,7 @@ What is java swing
  */
 
 import javax.swing.*;    //import swing
+import java.awt.event.*; //import events
 
 public class Main{
     public static void main(String[] args){
@@ -40,6 +41,24 @@ public class Main{
         b1.setText("sum");
         b1.setBounds(200,130,60,20);
         f1.add(b1);
+
+
+
+        //action
+
+        b1.addActionListener(new ActionListener(){
+            @Override
+            public void actionPerformed(ActionEvent e){
+                //what to do
+                String num1=t1.getText();
+                String num2=t2.getText();
+
+                l1.setText(num1+num2);
+
+            }
+        });
+
+
 
 
         f1.setVisible(true);                 //frame visibility turned on
