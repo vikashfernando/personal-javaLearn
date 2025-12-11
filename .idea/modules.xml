@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/gui-swing/1/1.iml" filepath="$PROJECT_DIR$/gui-swing/1/1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gui-swing/2/2.iml" filepath="$PROJECT_DIR$/gui-swing/2/2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gui-swing/gui-swing.iml" filepath="$PROJECT_DIR$/gui-swing/gui-swing.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/personal-javaLearn.iml" filepath="$PROJECT_DIR$/.idea/personal-javaLearn.iml" />
     </modules>
   </component>
