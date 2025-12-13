@@ -14,7 +14,6 @@ public class Main{
 
         JFrame f1=new JFrame("frame1");    //create frame object
         f1.setSize(400,300);                 //create frame size
-
         f1.setLayout(null);                  //4 default layout disable
 
 

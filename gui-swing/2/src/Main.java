@@ -60,7 +60,6 @@ public class Main{
 
 
 
-
         f1.setVisible(true);                 //frame visibility turned on
 
     }
