@@ -36,7 +36,6 @@ public class Main{
         JTextField t2=new JTextField();
         t2.setBounds(150,100,80,20);
         f1.add(t2);
-
         
         JButton b1=new JButton();                                           //button
         b1.setText("sum");
