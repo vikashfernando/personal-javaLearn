@@ -17,9 +17,6 @@ public class Main{
         f1.setSize(400,300);                 //create frame size
 
         f1.setLayout(null);                  //4 default layout disable
-
-
-
         
         //JLabel & JTextField & JButton
 
