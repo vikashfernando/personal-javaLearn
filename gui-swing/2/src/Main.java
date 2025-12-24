@@ -18,6 +18,8 @@ public class Main{
 
         f1.setLayout(null);                  //4 default layout disable
 
+
+
         
         //JLabel & JTextField & JButton
 
