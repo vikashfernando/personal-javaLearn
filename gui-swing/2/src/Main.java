@@ -18,7 +18,7 @@ public class Main{
 
         f1.setLayout(null);                  //4 default layout disable
 
-        
+
         //JLabel & JTextField & JButton
 
         JLabel l1=new JLabel("number 01");                  //1 create a label   //label
@@ -56,9 +56,7 @@ public class Main{
 
             }
         });
-
-
-
+        
         f1.setVisible(true);                 //frame visibility turned on
 
     }
