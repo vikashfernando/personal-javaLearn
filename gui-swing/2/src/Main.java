@@ -41,6 +41,16 @@ public class Main{
         b1.setText("sum");
         b1.setBounds(200,130,60,20);
         f1.add(b1);
+
+
+
+
+
+
+
+
+
+
         
         //action
 
