@@ -27,7 +27,6 @@ public class Main{
 
 
 
-
         
         JTextField t1=new JTextField();                                         //text filed
         t1.setBounds(150,30,80,20);
