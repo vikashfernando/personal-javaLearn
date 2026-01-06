@@ -26,6 +26,7 @@ public class Main{
         f1.add(l1);                                         //2 add label to frame
 
 
+
         
         JTextField t1=new JTextField();                                         //text filed
         t1.setBounds(150,30,80,20);
