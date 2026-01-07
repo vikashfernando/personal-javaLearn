@@ -9,7 +9,6 @@ What is java swing
 
 
 
-
  */
 
 import javax.swing.*;    //import swing
