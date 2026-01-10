@@ -1,7 +1,6 @@
 /*
 What is java swing
 
-
  */
 import javax.swing.*;    //import swing
 import java.awt.event.*; //import events
